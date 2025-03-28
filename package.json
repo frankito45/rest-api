@@ -1,0 +1,19 @@
+{
+  "name": "2025",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "franco",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "4.21.2",
+    "zod": "3.24.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

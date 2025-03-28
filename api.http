@@ -1,0 +1,17 @@
+### peticion general de productos
+GET http://localhost:3000/productos/catalogo?pag=2&&limit=4
+### peticion por parametro "categotia"
+GET http://localhost:3000/productos/producto?categoria=camperas
+
+### peticion por id
+GET http://localhost:3000/productos/porducto/12
+### post 
+POST http://localhost:3000/productos/producto HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+
+{
+    "name": "Gourav",
+    "age": 13,
+    "gender":"Male"
+}

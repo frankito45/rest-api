@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[camperas, remeras, pantalones]"
+    },
+    {
+        "id": "2",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    {
+        "id": "3",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    {
+        "id": "4",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    {
+        "id": "5",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    {
+        "id": "6",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    {
+        "id": "7",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    {
+        "id": "8",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    {
+        "id": "9",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    {
+        "id": "10",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    {
+        "id": "11",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    {
+        "id": "12",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    {
+        "id": "13",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    },
+    
+    {
+        "id": "14",
+        "nombre": "Producto 1",
+        "precio": 1000,
+        "imagen": "img/producto1.jpg",
+        "categoria": "[remeras, pantalones]"
+    }
+    
+]
